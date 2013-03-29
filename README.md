@@ -9,17 +9,17 @@ Installation
 
 Using [Composer](http://getcomposer.org):
 
-{
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/nineteenfeet/NFSimpleConfig"
+    {
+        "repositories": [
+            {
+                "type": "vcs",
+                "url": "https://github.com/nineteenfeet/NFSimpleConfig"
+            }
+        ],
+        "require": {
+            "nineteenfeet/nf-simple-config": "1.*",
         }
-    ],
-    "require": {
-        "nineteenfeet/nf-simple-config": "1.*",
     }
-}
 
 Alternatively, install manually.
 
